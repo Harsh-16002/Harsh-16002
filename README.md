@@ -33,7 +33,7 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-16002&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-16002&layout=compact&theme=tokyonight&hide=html,css,blade&hide_border=true"/>
 </p>
 
 ---
