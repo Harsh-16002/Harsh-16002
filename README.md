@@ -37,13 +37,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-16002&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
+-----
 
 ## 🏆 Achievements
 
+- 🚀 Built full-stack Laravel applications with admin panels  
+- 💻 Developed AJAX-based dynamic dashboards (no page reload)  
+- 🔐 Implemented JWT authentication using React + Node.js  
+- 🛒 Designed e-commerce system with order & refund logic  
+- 📊 Strong focus on scalable and real-world system design
+  
+---
+
+## 📊 Contribution Graph
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-16002&theme=onedark&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-16002&theme=tokyo-night" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
