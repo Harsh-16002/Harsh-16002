@@ -1,14 +1,24 @@
-# 👋 Hi, I'm Harsh Verma
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Specialist;AIML+Engineer;Building+Real+World+Systems&center=true&width=600&height=50">
+</p>
 
-🚀 B.Tech AIML Graduate | Full Stack Developer | Laravel Specialist
+<h1 align="center">👋 Hi, I'm Harsh Verma</h1>
+
+<p align="center">
+🚀 B.Tech AIML Graduate | 💻 Full Stack Developer | ⚡ Laravel Specialist
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsh-16002&color=blue" />
+</p>
 
 ---
 
 ## 🔥 About Me
 
-* 💻 Working on **Laravel + AJAX + Admin Panels + Node**
-* 🎯 Goal: Become a top-tier full-stack engineer
-* ⚡ Love building real-world systems (CRM, dashboards, portals)
+* 💻 Building **Laravel + AJAX + Admin Panels + Node.js Applications**
+* 🎯 Focused on becoming a **top-tier full-stack engineer**
+* ⚡ Passionate about **real-world scalable systems (CRM, dashboards, portals)**
 
 ---
 
@@ -23,26 +33,61 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-16002&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-16002&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🚀 Top Projects
+## 🏆 Achievements
 
-* 🏠 Interior Design Website (Laravel + Admin Panel)
-* 🛒 E-commerce System with Order Tracking
-* 📊 AJAX CRUD Dashboard
-* 🔐 JWT Authentication System (React + Node)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-16002&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Interior Design Website
+
+* Laravel-based dynamic website with admin panel
+* AJAX content updates without page reload
+* Fully manageable CMS (projects, blogs, team, etc.)
+
+### 🛒 E-commerce System
+
+* Order tracking + shipping integration
+* Refund system with logic handling
+* Secure backend operations
+
+### 📊 AJAX CRUD Dashboard
+
+* Dynamic admin panel using AJAX
+* Modular components loading
+* Clean UI with Bootstrap
+
+### 🔐 JWT Authentication System
+
+* React + Node.js authentication
+* Token-based login & security
+* Scalable auth architecture
 
 ---
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [harshvermapc5@gmail.com](mailto:harshvermapc5@gmail.com)
-* 💼 LinkedIn: (add link)
-* 🌍 Portfolio: (add later)
+<p align="center">
+  <a href="mailto:harshvermapc5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-kumar-verma-3561a1324">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://harsh-verma-portfolio-henna.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
